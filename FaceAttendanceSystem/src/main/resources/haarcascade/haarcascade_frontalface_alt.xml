@@ -1,0 +1,4 @@
+CascadeClassifier faceDetector =
+new CascadeClassifier(
+"src/main/resources/haarcascade_frontalface_alt.xml"
+);
